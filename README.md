@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="314" src="https://ultrawidewallpapers.net/wallpapers/329/highres/aishot-2659.jpg?v=1754093277" />
 </div>
@@ -8,7 +7,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omkar-fr.omkar-fr&" />
 </div>
 
-<div align="center" style="margin-top: 2px;">
+<div align="center" style="margin-top: 5px;">
   <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
   </a>
@@ -24,11 +23,11 @@
 
 <p align="left">Information Technology student focused on full-stack development. I enjoy building functional web applications and exploring core software engineering principles.</p>
 
-<div align="center" style="margin-top: 15px; margin-bottom: 15px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=45&section=footer" width="100%" alt="wave divider" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=50&section=header" width="100%" />
 </div>
 
-## <div align="center" style="margin-top: -38px; margin-bottom: 15px;">💠 **A R S E N A L** 💠</div>
+## <div align="center" style="margin-top: -30px; margin-bottom: 15px;">💠 **A R S E N A L** 💠</div>
 
 <div align="center">
   <table style="margin-top: 5px;">
