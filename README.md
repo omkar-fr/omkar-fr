@@ -21,13 +21,18 @@
 
 ---
 
-<p align="left">Information Technology student focused on full-stack development. I enjoy building functional web applications and exploring core software engineering principles.</p>
+### 👩‍💻 About Me
+<p align="left">Developer in the field of Computer Science. Currently focused on building full-stack applications and exploring the principles of scalable software engineering.</p>
+
+<p align="left"><b>Interests:</b> Machine Learning and AI Foundations, Backend Architecture, and API Design.</p>
+
+<br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=50&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=80&section=header&reversal=false&bgColor=0d1117" width="100%" />
 </div>
 
-## <div align="center" style="margin-top: -30px; margin-bottom: 15px;">💠 **A R S E N A L** 💠</div>
+## <div align="center" style="margin-top: -50px; margin-bottom: 20px;">💠 **A R S E N A L** 💠</div>
 
 <div align="center">
   <table style="margin-top: 5px;">
@@ -51,11 +56,11 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
         <br><small>HTML5</small>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
         <br><small>CSS3</small>
       </td>
       <td align="center" width="96">
@@ -72,14 +77,18 @@
 
 ---
 
+## <div align="center">📊 **C O N T R I B U T I O N S** 📊</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-fr&theme=react-dark&color=0077B5&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
 ## <div align="center">🚀 **C U R R E N T L Y &nbsp; B U I L D I N G** 🚀</div>
 
 <div align="center">
-  <p><i>Building full-stack projects and refining development workflows. Check back soon!</i></p>
+  <p><i>Developing full-stack projects and refining software workflows. Check back soon!</i></p>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omkar-fr&repo=YOUR_BEST_EXISTING_REPO&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&hide_border=true" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand+gestures/Victory+Hand.png" width="35" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/10515138/247920366-26732387-a226-4076-905c-30b809a77765.gif" width="300" />
 </div>
