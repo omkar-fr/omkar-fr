@@ -38,6 +38,20 @@
   <table style="margin-top: 5px;">
     <tr>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
+        <br><small>Python</small>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="45" height="45" />
+        <br><small>FastAPI</small>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/pydantic/e92063" alt="Pydantic" width="45" height="45" />
+        <br><small>Pydantic</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="45" height="45" />
         <br><small>JS</small>
       </td>
@@ -46,12 +60,8 @@
         <br><small>React</small>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="45" height="45" />
-        <br><small>FastAPI</small>
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
-        <br><small>Python</small>
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="45" height="45" />
+        <br><small>Tailwind</small>
       </td>
     </tr>
     <tr>
@@ -62,10 +72,6 @@
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
         <br><small>CSS3</small>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="45" height="45" />
-        <br><small>Tailwind</small>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45" />
