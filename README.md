@@ -50,20 +50,7 @@
         <br><small>Pydantic</small>
       </td>
     </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="45" height="45" />
-        <br><small>JS</small>
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
-        <br><small>React</small>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="45" height="45" />
-        <br><small>Tailwind</small>
-      </td>
-    </tr>
+    
     <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
